@@ -6,8 +6,9 @@ My goal is to commit code every day, practice new tags/concepts, and document ex
 
 ---
 
-## 📅 Daily Progress & Notes - I update my daily notes in a separate "NOTE.md" under WEB-DEV-LEARNING-JOURNEY repo. So make sure to star this repo for daily update.  
-
+## 📅 Daily Progress & Notes - 
+I update my daily notes in a separate "NOTE.md" under WEB-DEV-LEARNING-JOURNEY repo. So make sure to star this repo for daily update.  
+\
 Note - Under my NOTE.md I mention what I learn and some notes about that tags or particular thing at daily basis. 
 ---
 
